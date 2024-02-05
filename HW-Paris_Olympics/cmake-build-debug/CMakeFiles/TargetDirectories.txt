@@ -1,0 +1,3 @@
+/Users/tinlam/Documents/TAMU/CSCE 121/Homework/Lap3/HW-Paris_Olympics/cmake-build-debug/CMakeFiles/HW_Paris_Olympics.dir
+/Users/tinlam/Documents/TAMU/CSCE 121/Homework/Lap3/HW-Paris_Olympics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tinlam/Documents/TAMU/CSCE 121/Homework/Lap3/HW-Paris_Olympics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
